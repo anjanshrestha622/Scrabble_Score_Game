@@ -24,8 +24,8 @@ This project follows the principles of **Test-Driven Development (TDD)**, ensuri
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/scrabble-score-project.git
-   cd scrabble-score-project
+[   git clone https://github.com/username/scrabble-score-project.git
+   cd scrabble-score-project](https://github.com/anjanshrestha622/Scrabble_Score_Game.git)
    ```
 
 2. **Install Python (if not already installed)**:
