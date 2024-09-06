@@ -71,7 +71,8 @@ scrabble-score-project/
 │
 ├── scrabble_score.py            # Main game logic
 ├── test_scrabble_game.py        # Unit tests for the game
-├── README.md                    # Project documentation
+
+README.md                    # Project documentation
 ```
 
 ### **Testing**
