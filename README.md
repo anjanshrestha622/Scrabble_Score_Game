@@ -99,4 +99,4 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 
 
 **Happy Playing!**  
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Anjan shrestha
